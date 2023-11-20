@@ -1,0 +1,233 @@
+* {
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	
+	font-family: 'open sans', sans-serif;
+	overflow-x: hidden;
+}
+
+.about {
+	width: 100%;
+	margin: 10px;
+	position: relative;
+	font-size: 15px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.garis0{
+	background-color: white;
+	padding: 5px;
+}
+
+.background1{
+	background-image: url(img/foto33306.jpg);
+	width: 1900px;
+	height: 800px;
+	text-align: center;
+	padding-left: 100px;
+}
+
+.deskripsi{
+	font-family: 'hobo std';
+	font-size: 25px;
+	color: white;
+	padding-top: 2%;
+	text-align: center;
+}
+
+.logo333{
+	width: 260px;
+}
+
+.teks{
+	font-family: 'hobo std';
+	color: white;
+	padding-top: 2%;
+}
+
+.teks p{
+	font-size: 35px;
+	transform: translate(-2%,5%);
+}
+
+.background2{
+	background-image: url(img/foto33301.jpg);
+	width: 100%;
+	height: 1000px;
+}
+.garis1a{
+	background-color:  red;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: 'hobo std';
+	font-size: 25px;
+	padding: 10px;
+}
+
+.garis1b{
+	background-color: white;
+	padding: 5px;
+}
+
+.background2{
+	background-position-y:1000px;
+	background-size: cover;
+	padding-left: 190px;
+}
+
+
+.background3{
+	background-image: url(img/foto33303.jpg);
+	width: 100%;
+	height: 1000px;
+}
+
+.background4{
+	background-image: url(img/foto33304.jpg);
+	width: 100%;
+	height: 1050px;
+}
+
+.garis2a{
+	background-color:  red;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: 'hobo std';
+	font-size: 25px;
+	padding: 10px;
+}
+
+.garis2b{
+	background-color: white;
+	padding: 5px;
+}
+
+.background3{
+	background-position-y:1000px;
+	background-size: cover;
+}
+
+.inframe{
+	width: 1500px;
+	height: 890px;
+	margin: 30px 45px 30px 45px;
+	padding-left: 150px;
+}
+
+.inframevideo{
+	width: 1280px;
+	height: 720px;
+	margin: 30px 45px 30px 45px;
+	padding-left: 270px;
+}
+
+.garis3a{
+	background-color:  red;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: 'hobo std';
+	font-size: 25px;
+	padding: 10px;
+}
+
+.garis3b{
+	background-color: white;
+	padding: 5px;
+}
+
+.garis4a{
+	background-color:  red;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: 'hobo std';
+	font-size: 25px;
+	padding: 10px;
+}
+
+.garis4b{
+	background-color: white;
+	padding: 5px;
+}
+.logo a{
+	font-size: 35px;
+	font-weight: 800;
+	float: left;
+	font-family: 'hobo std';
+	color: #FFFFFF;
+	padding-left: 50px;
+}
+
+.kolom{
+	width: 100%;
+	margin: auto;
+	background-color: : #362f2d
+
+}
+.menu {
+	float: right;
+	padding-right: 10px;
+}
+
+nav {
+	width: 100%;
+	margin: auto;
+	display: flex;
+	line-height: 80px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 0;
+	background: red;
+	z-index: 1;
+	border-bottom: 1px solid white;
+	font-family: 'hobo std';
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+	padding: 0px 10px 0px 10px;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	text-decoration: underline;
+	font-family: 'hobo std';
+} 
+
+section {
+	margin: auto;
+	display: flex;
+	margin-bottom: 50px;
+}
+
+.kolom {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.copyright {
+	background-color:  red;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'hobo std';
+	padding: 15px;
+	width: 98%;
+}
